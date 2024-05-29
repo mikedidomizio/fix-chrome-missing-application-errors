@@ -1,0 +1,3 @@
+.idea
+
+tmp/ # for development purposes used to symbolic link to the "~/Library/Application Support/Google/Chrome/Profile 1" directory
