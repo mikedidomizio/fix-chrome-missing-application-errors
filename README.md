@@ -1,6 +1,6 @@
-# MacOS fix missing application errors in Chrome
+# Fix missing application errors in Chrome
 
-A collection of scripts and documentation on fixing MacOS browser errors like "There is no application set to open the ..." example Microsoft Teams:
+A collection of scripts and documentation on fixing Chrome browser errors like "There is no application set to open the ..." example Microsoft Teams:
 
 ![Image of Teams meeting missing the Teams application](teams/assets/teams-missing-application.png)
 

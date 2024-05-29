@@ -1,12 +1,16 @@
-## Microsoft Teams
+# Microsoft Teams
 
 ![Image of Teams meeting missing the Teams application](assets/teams-missing-application.png)
 
-# Automatic fix
+## Automatic fix
+
+### MacOS
 
 Run `sh ./run.sh`
 
-# Manual fix
+## Manual fix
+
+### MacOS
 
 1. Close Google Chrome
 
