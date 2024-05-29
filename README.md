@@ -1,4 +1,4 @@
-# Fix missing application errors in Chrome
+# Fix missing application errors in Google Chrome
 
 A collection of scripts and documentation on fixing Chrome browser errors like "There is no application set to open the ..." example Microsoft Teams:
 
@@ -8,3 +8,7 @@ Each sub folder links to the application and a script that can automatically fix
 how to do it manually.
 
 ⚠️ You take on all risks and issues for any modifications to your system whether automatically through scripts in this repository or manually fixed. No support will be given.
+
+## Applications
+
+[Microsoft Teams](./teams)
